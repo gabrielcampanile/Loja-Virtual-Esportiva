@@ -198,6 +198,7 @@
 @media (max-width: 630px) {
     .header {
         justify-content: center;
+        position: absolute;
     }
 
     .gridContainer {
